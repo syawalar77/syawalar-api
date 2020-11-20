@@ -1,0 +1,14 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "description": "news api json server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch news.json --port 2000"
+  },
+  "author": "Syawal L Akbar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
